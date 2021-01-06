@@ -17,10 +17,10 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="i5Y-Is-FY0" customClass="OTPFieldView" customModule="OtpViewExample" customModuleProvider="target">
-                                <rect key="frame" x="55" y="74" width="303" height="56"/>
+                                <rect key="frame" x="55" y="74" width="303" height="36"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="56" id="hQt-C0-RHv"/>
+                                    <constraint firstAttribute="height" constant="36" id="hQt-C0-RHv"/>
                                 </constraints>
                             </view>
                         </subviews>
